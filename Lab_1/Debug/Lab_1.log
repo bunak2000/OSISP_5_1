@@ -1,0 +1,3 @@
+﻿  WinMain.cpp
+F:\OSISP\Lab_1\Lab_1\WinMain.cpp(198,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab_1.vcxproj -> F:\OSISP\Lab_1\Debug\Lab_1.exe
